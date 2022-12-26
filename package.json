@@ -2,9 +2,9 @@
   "name": "handle-file",
   "version": "1.0.0",
   "description": "",
-  "main": "single-file-upload.js",
+  "main": "image-upload.js",
   "scripts": {
-    "start-dev":"nodemon multiple-file-upload.js"
+    "start-dev":"nodemon image-upload.js"
   },
   "keywords": [],
   "author": "",
